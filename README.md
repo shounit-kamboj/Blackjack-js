@@ -34,7 +34,6 @@ This project helped bridge the gap between **static web pages** and **interactiv
 - Choose to **Hit** to draw another card or **Stand** to end your turn
 - The dealer draws a random total
 - The game determines the winner based on Blackjack rules
-- The Start button reappears so the game can be restarted
 
 ---
 
@@ -52,7 +51,7 @@ This project helped bridge the gap between **static web pages** and **interactiv
 - Ace logic (1 or 11)
 - Dealer hitting rules
 - Betting system and balance tracking
-- Improved UI and animations
+- Improved UI and animations ie: showing cards to user and deck animation
 
 ---
 
