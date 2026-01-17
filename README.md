@@ -4,7 +4,7 @@
 This project is a simple **Blackjack game built with HTML, CSS, and JavaScript**.  
 It runs entirely in the browser and simulates basic Blackjack gameplay such as dealing cards, hitting, standing, and determining a winner.
 
-The game focuses on **core logic rather than perfect casino rules**, making it ideal as a learning project.
+The game focuses on **core logic rather than perfect casino rules**, used as a learning project.
 
 ---
 
@@ -47,7 +47,7 @@ This project helped bridge the gap between **static web pages** and **interactiv
 ---
 
 ## 🚀 Future Improvements
-- Proper card deck (no repeated cards)
+- Proper card deck 
 - Ace logic (1 or 11)
 - Dealer hitting rules
 - Betting system and balance tracking
