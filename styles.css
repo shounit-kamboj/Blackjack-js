@@ -1,0 +1,82 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("table.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    font-size: 90px;
+    letter-spacing: 0.5cm;
+
+}
+
+#message-el {
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+.Start {
+    background-color: goldenrod;
+    color: darkgreen;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 30px;
+    font-weight: bold;
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#card {
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.hit {
+    background-color: goldenrod;
+    color: darkgreen;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hit_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.stand {
+    background-color: goldenrod;
+    color: darkgreen;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.stand_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
