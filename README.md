@@ -1,6 +1,6 @@
 # Blackjack Game
 
-## 📌 Project Overview
+##  Project Overview
 This project is a simple **Blackjack game built with HTML, CSS, and JavaScript**.  
 It runs entirely in the browser and simulates basic Blackjack gameplay such as dealing cards, hitting, standing, and determining a winner.
 
@@ -8,7 +8,7 @@ The game focuses on **core logic rather than perfect casino rules**, used as a l
 
 ---
 
-## 🎯 Purpose of the Project
+##  Purpose of the Project
 The main reason for creating this project was to **learn how JavaScript interacts with HTML and CSS**.
 
 Specifically, this project was used to practice:
@@ -22,14 +22,14 @@ This project helped bridge the gap between **static web pages** and **interactiv
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML** – structure of the game
 - **CSS** – basic styling and layout
 - **JavaScript** – game logic and interactivity
 
 ---
 
-## 🎮 How the Game Works
+##  How the Game Works
 - Click **Start Game** to receive two random cards
 - Choose to **Hit** to draw another card or **Stand** to end your turn
 - The dealer draws a random total
@@ -37,7 +37,7 @@ This project helped bridge the gap between **static web pages** and **interactiv
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 - How to use `querySelector` and `getElementById`
 - How to update HTML dynamically with JavaScript
 - How to handle button clicks with event listeners
@@ -46,7 +46,7 @@ This project helped bridge the gap between **static web pages** and **interactiv
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Proper card deck 
 - Ace logic (1 or 11)
 - Dealer hitting rules
@@ -55,5 +55,5 @@ This project helped bridge the gap between **static web pages** and **interactiv
 
 ---
 
-## ✅ Status
+##  Status
 This project is complete as a **learning exercise**, but may be expanded in the future.
