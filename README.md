@@ -1,4 +1,4 @@
-# Blackjack Game (JavaScript Practice)
+# Blackjack Game
 
 ## 📌 Project Overview
 This project is a simple **Blackjack game built with HTML, CSS, and JavaScript**.  
